@@ -1,2 +1,2 @@
 # github-einfuehrung
-Erste Einführung in Github
+erste einführung in github
